@@ -62,7 +62,8 @@ font-weight: 400;
 font-size: 16px;
 color: #000f;
 row-gap: 16px;
-align-items: center;
+align-items: flex-start;
+width: ;
 }
 .p-Home.Flex13 {
 display: flex;

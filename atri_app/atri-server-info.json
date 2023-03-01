@@ -5,6 +5,12 @@
   "pages": {
     "/": {
       "name": "Home"
+    },
+    "/search": {
+      "name": "search"
+    },
+    "/trial": {
+      "name": "trial"
     }
   },
   "publicUrlAssetMap": {

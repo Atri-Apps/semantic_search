@@ -1387,7 +1387,7 @@ const desktopModeProps = {
     },
     "TextBox60": {
       "custom": {
-        "text": "Places to see, ways to wander, and signature experiences."
+        "text": "A mix of the charming, modern, and tried and true."
       },
       "callbacks": {
         "onClick": [
@@ -1399,7 +1399,7 @@ const desktopModeProps = {
     },
     "TextBox61": {
       "custom": {
-        "text": "Do"
+        "text": "Stay"
       },
       "callbacks": {
         "onClick": [
@@ -1748,6 +1748,730 @@ const desktopModeProps = {
           }
         ]
       }
+    }
+  },
+  "search": {
+    "Flex156": {
+      "callbacks": {}
+    },
+    "Flex154": {
+      "callbacks": {}
+    },
+    "Flex145": {
+      "callbacks": {}
+    },
+    "Flex146": {
+      "callbacks": {}
+    },
+    "Flex155": {
+      "callbacks": {}
+    },
+    "Flex147": {
+      "callbacks": {}
+    },
+    "Flex148": {
+      "callbacks": {}
+    },
+    "Flex149": {
+      "callbacks": {}
+    },
+    "Flex150": {
+      "callbacks": {}
+    },
+    "Flex151": {
+      "callbacks": {}
+    },
+    "Flex181": {
+      "callbacks": {}
+    },
+    "Flex182": {
+      "callbacks": {}
+    },
+    "Flex183": {
+      "callbacks": {}
+    },
+    "Flex173": {
+      "callbacks": {}
+    },
+    "Flex174": {
+      "callbacks": {}
+    },
+    "Flex178": {
+      "callbacks": {}
+    },
+    "Flex179": {
+      "callbacks": {}
+    },
+    "Flex184": {
+      "callbacks": {}
+    },
+    "Flex180": {
+      "callbacks": {}
+    },
+    "Flex204": {
+      "callbacks": {}
+    },
+    "Input3": {
+      "custom": {
+        "value": "",
+        "placeholder": "Plan travel itinerary using Plutis' semantic search"
+      },
+      "callbacks": {}
+    },
+    "TextBox139": {
+      "custom": {
+        "text": "Calistoga"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox140": {
+      "custom": {
+        "text": "Explore"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Button4": {
+      "custom": {
+        "text": "Submit"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox141": {
+      "custom": {
+        "text": "Cart"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image153": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/Vector-7.png"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox142": {
+      "custom": {
+        "text": "Alerts"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image154": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/Vector-6.png"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox143": {
+      "custom": {
+        "text": "Trips"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image155": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/Vector-5.png"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox144": {
+      "custom": {
+        "text": "Review"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image156": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/Vector-4.png"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image157": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/Vector-3.png"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image158": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/Vector-9.png"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox168": {
+      "custom": {
+        "text": "Your itinenary:"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image167": {
+      "custom": {
+        "alt": "clock",
+        "src": "/app-assets/clock.png"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox156": {
+      "custom": {
+        "text": "9 AM"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox162": {
+      "custom": {
+        "text": "12 PM"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image169": {
+      "custom": {
+        "alt": "clock",
+        "src": "/app-assets/clock.png"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox163": {
+      "custom": {
+        "text": "2 PM"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image170": {
+      "custom": {
+        "alt": "clock",
+        "src": "/app-assets/clock.png"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image171": {
+      "custom": {
+        "alt": "clock",
+        "src": "/app-assets/clock.png"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox169": {
+      "custom": {
+        "text": "6 PM"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox164": {
+      "custom": {
+        "text": "Check in at the Solage, Auberge resort"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox165": {
+      "custom": {
+        "text": "Have lunch at Lovina"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox166": {
+      "custom": {
+        "text": "Go wine tasting in Castello di Amorosa "
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox170": {
+      "custom": {
+        "text": "End the night with a great dinner at Solbar - Solage"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image183": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/Screen%20Shot%202023-02-28%20at%206.07.09%20PM.png"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image191": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/Screen%20Shot%202023-02-28%20at%206.06.56%20PM.png"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image192": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/Screen%20Shot%202023-02-28%20at%206.07.25%20PM.png"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image193": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/Screen%20Shot%202023-02-28%20at%206.06.46%20PM.png"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    }
+  },
+  "trial": {
+    "Flex203": {
+      "callbacks": {}
+    },
+    "Flex200": {
+      "callbacks": {}
+    },
+    "Flex191": {
+      "callbacks": {}
+    },
+    "Flex189": {
+      "callbacks": {}
+    },
+    "Flex190": {
+      "callbacks": {}
+    },
+    "Flex188": {
+      "callbacks": {}
+    },
+    "Flex192": {
+      "callbacks": {}
+    },
+    "Flex201": {
+      "callbacks": {}
+    },
+    "Flex193": {
+      "callbacks": {}
+    },
+    "Flex194": {
+      "callbacks": {}
+    },
+    "Flex195": {
+      "callbacks": {}
+    },
+    "Flex196": {
+      "callbacks": {}
+    },
+    "Flex197": {
+      "callbacks": {}
+    },
+    "Flex202": {
+      "callbacks": {}
+    },
+    "Flex198": {
+      "callbacks": {}
+    },
+    "Flex199": {
+      "callbacks": {}
+    },
+    "Image182": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/Screen%20Shot%202023-02-28%20at%205.30.04%20PM.png"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox178": {
+      "custom": {
+        "text": "Check in at the Solage, Auberge resort"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox174": {
+      "custom": {
+        "text": "9 AM"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image175": {
+      "custom": {
+        "alt": "clock",
+        "src": "/app-assets/clock.png"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox179": {
+      "custom": {
+        "text": "Your itinenary:"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Button5": {
+      "custom": {
+        "text": "Submit"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image176": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/Vector-9.png"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image177": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/Vector-3.png"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image178": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/Vector-4.png"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox180": {
+      "custom": {
+        "text": "Review"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image179": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/Vector-5.png"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox181": {
+      "custom": {
+        "text": "Trips"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image180": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/Vector-6.png"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox182": {
+      "custom": {
+        "text": "Alerts"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image181": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/Vector-7.png"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox183": {
+      "custom": {
+        "text": "Cart"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox184": {
+      "custom": {
+        "text": "Explore"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox185": {
+      "custom": {
+        "text": "Calistoga"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Input4": {
+      "custom": {
+        "value": "",
+        "placeholder": "Plan travel itinerary using Plutis' semantic search"
+      },
+      "callbacks": {}
     }
   }
 }};
