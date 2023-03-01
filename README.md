@@ -7,11 +7,11 @@ Plan travel itinerary using Plutis' semantic search
 ### Step 1: Setup
 
 ```shell
-git clone https://github.com/Atri-Apps/stable-diffusion.git
+git clone https://github.com/Atri-Apps/semantic_search.git
 ```
 
 ```shell
-cd stable-diffusion
+cd semantic_search
 ```
 
 ```shell
